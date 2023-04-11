@@ -1,2 +1,4 @@
 venv
 emojis.txt
+.json*
+__pycache__*
